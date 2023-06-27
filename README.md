@@ -14,6 +14,7 @@ A simple URL shortener web application built with Node.js, Express, and MongoDB.
 [github repo](https://github.com/sunilsimar/Url_Shortner.git)
 
 ### Install dependencies:
+```bash
 npm init
 npm i express mongoose ejs
 npm i shortid
